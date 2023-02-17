@@ -1,4 +1,4 @@
-# Space App UI in Flutter
+# Solar SystemApp UI in Flutter
 
 A new Flutter project.
 
